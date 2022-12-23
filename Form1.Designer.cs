@@ -879,7 +879,7 @@
                         this.Controls.Add(this.tblPatientsBindingNavigator);
                         this.Controls.Add(this.tabControl1);
                         this.Name = "HospitalManagementSysten";
-                        this.Text = "Form1";
+                        this.Text = "Hospital Management System";
                         this.Load += new System.EventHandler(this.Form1_Load);
                         this.tabPage3.ResumeLayout(false);
                         this.tabPage3.PerformLayout();
